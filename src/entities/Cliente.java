@@ -10,7 +10,6 @@ public class Cliente {
 	private int idContaCorrente;
 
 	public Cliente(int id, String nome, int idade, String email, boolean ativo, int idContaCorrente) {
-		super();
 		this.id = id;
 		this.nome = nome;
 		this.idade = idade;
