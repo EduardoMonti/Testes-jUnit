@@ -15,7 +15,7 @@ import entities.GerenciadoraClientes;
 
 //Utilizando @before e @after para ganhar tempo e otimizar testes com cenários parecidos
 
-public class GerenciadoraClienteTest_3 {
+public class GerenciadoraClientesTest_3 {
 	
 	
 	private GerenciadoraClientes gerClientes;
